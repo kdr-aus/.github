@@ -22,6 +22,12 @@ A reporting generation tool turning markdown into feature rich web pages.
 
 Kronuz is a slick job scheduling app built with Rust and Elm.
 
+## `profr`
+
+- [🌐 Website](https://profr.daedalus.report)
+
+Create and send proposals with ease using profr.
+
 ## `rrrehab`
 
 - [🌐 Website](https://rrrehab.daedalus.report)
